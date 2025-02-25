@@ -108,7 +108,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
-[18:10, 2/25/2025] ChatGPT: Waterfall Methodology
+Waterfall Methodology
 
 Description:
 Waterfall is a linear and sequential approach to software development, where each phase of the project is completed before moving on to the next. It’s called “waterfall” because progress flows in one direction, like a waterfall.
@@ -122,7 +122,7 @@ Key Characteristics:
 Advantages:
 - Clear and structured approach.
 - Well-suited for projects with clearly defined requirements that are unlikely to change.
-[18:10, 2/25/2025] ChatGPT: - Easier to manage in terms of project tracking due to its predictable, step-by-step process.
+- Easier to manage in terms of project tracking due to its predictable, step-by-step process.
 
 Disadvantages:
 - Not flexible; changes are difficult and costly to implement once a phase is completed.
@@ -134,7 +134,7 @@ Appropriate Scenarios:
 - Large-scale, complex systems: In cases where there are multiple stakeholders and strict timelines, such as government projects or construction software systems.
 - Compliance-heavy industries: Where strict adherence to regulations is necessary, such as medical software development or aerospace applications.
 
----
+
 
 Agile Methodology
 
@@ -142,7 +142,7 @@ Description:
 Agile is an iterative and incremental approach to software development that focuses on flexibility, collaboration, and continuous delivery. Instead of a rigid sequence, Agile works in short, iterative cycles called sprints.
 
 Key Characteristics:
-[18:10, 2/25/2025] ChatGPT: 1. Iterative Process: Development occurs in small, repeatable cycles (called sprints), typically lasting 1-4 weeks, where a piece of functionality is developed, tested, and reviewed.
+1. Iterative Process: Development occurs in small, repeatable cycles (called sprints), typically lasting 1-4 weeks, where a piece of functionality is developed, tested, and reviewed.
 2. Flexibility: Agile allows for changes in requirements at any point during the development process. Feedback is gathered from stakeholders after each sprint to guide the next one.
 3. Collaboration: Close communication with the customer, team, and other stakeholders throughout the project. Agile encourages cross-functional teams that include developers, testers, and business representatives.
 4. Minimal Documentation: Agile focuses on working software over comprehensive documentation, though documentation is still maintained as needed.
@@ -153,7 +153,7 @@ Advantages:
 - Collaboration and feedback: Frequent collaboration between the development team and stakeholders ensures that the product evolves according to the user’s needs.
 
 Disadvantages:
-[18:10, 2/25/2025] ChatGPT: - Less predictability: Since Agile is adaptive, it can be harder to predict timelines, costs, and resource allocation upfront.
+- Less predictability: Since Agile is adaptive, it can be harder to predict timelines, costs, and resource allocation upfront.
 - Scope creep: Because requirements can evolve continuously, there’s a risk of the project growing beyond its original scope without proper management.
 - Requires experienced teams: Agile relies heavily on team autonomy and collaboration, requiring highly skilled and motivated teams.
 
@@ -162,26 +162,25 @@ Appropriate Scenarios:
 - Small to medium-sized projects: Agile works well in web development or software prototyping where iterations are crucial to shaping the product based on user feedback.
 - Software products with continuous improvement: For example, social media platforms or e-commerce websites that need constant updates based on changing user preferences, new technologies, or competitive pressures.
 
----
 
 Comparison: Waterfall vs. Agile
 
-| Aspect                  | Waterfall                                               | Agile                                     |
---------------------------|---------------------------------------------------------|-----------------------------------------------|
+| Aspect              | Waterfall                                                   | Agile                                     |
+----------------------|-------------------------------------------------------------|-----------------------------------------------|
 | Process             | Linear, sequential steps.                                   | Iterative, with repeated cycles (sprints).    |
 | Flexibility         | Rigid; difficult to make changes once a phase is completed. | Flexible; accommodates changes throughout the project. |
 | Feedback            | Limited feedback until the final product.                   | Continuous feedback at the end of each sprint. |
 | Documentation       | Heavy documentation at each phase.                          | Minimal documentation, focuses on working software. |
 | Delivery            | One final product delivered at the end.                     | Incremental releases of working software.     |
-| Risk Management     | Risks are identified early but cannot be easily mitigated                                                                                                              once the project moves forward.                             | Risks are identified and managed iteratively,                                                                                                                          with adjustments made at the end of each sprint. |
-| Suitability         | Best for stable, well-defined projects.          | Best for projects with evolving requirements and where flexibility is needed. |
+| Risk Management     | Risks are identified early but cannot be easily mitigated   |                                                                                                          once the project moves forward.                             | Risks are identified and managed iteratively,                                                                                                                          with adjustments made at the end of each sprint. |
+| Suitability         | Best for stable, well-defined projects.                     | Best for projects with evolving requirements and where flexibility is needed. |
 
----
+
 
 Examples of Scenarios:
 
 1. Waterfall Scenario:
-[18:10, 2/25/2025] ChatGPT: - Government Software for Compliance: Imagine a project to build a software solution for a government agency that must adhere to strict regulations and standards. The requirements are well-known upfront, and there's little chance of change during development. In such a case, the Waterfall methodology would be appropriate because it allows for thorough documentation, upfront planning, and a clear path to the final product.
+ - Government Software for Compliance: Imagine a project to build a software solution for a government agency that must adhere to strict regulations and standards. The requirements are well-known upfront, and there's little chance of change during development. In such a case, the Waterfall methodology would be appropriate because it allows for thorough documentation, upfront planning, and a clear path to the final product.
 
 2. Agile Scenario:
    - Startup Mobile App: A startup developing a new mobile app to enter the market, where the initial product will likely evolve based on customer feedback. Agile would be ideal here because it allows the development team to quickly adapt, improve the product incrementally, and release frequent updates based on real-world user feedback.
